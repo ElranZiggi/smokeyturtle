@@ -1339,7 +1339,7 @@ body.second-home #scrollUp {
   }
 
   .enlarge-img{
-        transform: scale(2.8);
+    transform: scale(2.8);
 
   }
   .home_two #review .figure-img {
@@ -2395,6 +2395,7 @@ body.second-home #scrollUp {
 }
 #main-slider-section .strong {
   font-weight: 700;
+  line-height: 1.4;
 }
 
 /*
